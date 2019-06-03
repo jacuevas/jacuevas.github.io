@@ -1,0 +1,31 @@
+/**{
+	border: 1px solid red !important;
+}*/
+
+	body {
+	background: url(header.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	}
+	.container{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	height: 475px;
+	font-size: 30px;
+	color: white;
+}
+.button{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	height: 350px;
+	
+}
+
+
